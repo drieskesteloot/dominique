@@ -15,28 +15,36 @@ import { Component, OnInit } from '@angular/core';
       <div class="container-fluid">
         <div class="row no-space">
           <div class="col-lg-3 col-sm-4 col-xs-6">
-            <div class="box"><a href="assets/img/portfolio-1.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 1"><img src="assets/img/portfolio-1.jpg" alt="" class="img-responsive"></a></div>
+            <div class="box"><a href="assets/img/portfolio-1.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 1"><img
+              src="assets/img/portfolio-1.jpg" alt="" class="img-responsive"></a></div>
           </div>
           <div class="col-lg-3 col-sm-4 col-xs-6">
-            <div class="box"><a href="assets/img/portfolio-2.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 2"><img src="assets/img/portfolio-2.jpg" alt="" class="img-responsive"></a></div>
+            <div class="box"><a href="assets/img/portfolio-2.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 2"><img
+              src="assets/img/portfolio-2.jpg" alt="" class="img-responsive"></a></div>
           </div>
           <div class="col-lg-3 col-sm-4 col-xs-6">
-            <div class="box"><a href="assets/img/portfolio-3.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 3"><img src="assets/img/portfolio-3.jpg" alt="" class="img-responsive"></a></div>
+            <div class="box"><a href="assets/img/portfolio-3.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 3"><img
+              src="assets/img/portfolio-3.jpg" alt="" class="img-responsive"></a></div>
           </div>
           <div class="col-lg-3 col-sm-4 col-xs-6">
-            <div class="box"><a href="assets/img/portfolio-4.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 4"><img src="assets/img/portfolio-4.jpg" alt="" class="img-responsive"></a></div>
+            <div class="box"><a href="assets/img/portfolio-4.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 4"><img
+              src="assets/img/portfolio-4.jpg" alt="" class="img-responsive"></a></div>
           </div>
           <div class="col-lg-3 col-sm-4 col-xs-6">
-            <div class="box"><a href="assets/img/portfolio-5.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 5"><img src="assets/img/portfolio-5.jpg" alt="" class="img-responsive"></a></div>
+            <div class="box"><a href="assets/img/portfolio-5.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 5"><img
+              src="assets/img/portfolio-5.jpg" alt="" class="img-responsive"></a></div>
           </div>
           <div class="col-lg-3 col-sm-4 col-xs-6">
-            <div class="box"><a href="assets/img/portfolio-6.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 6"><img src="assets/img/portfolio-6.jpg" alt="" class="img-responsive"></a></div>
+            <div class="box"><a href="assets/img/portfolio-6.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 6"><img
+              src="assets/img/portfolio-6.jpg" alt="" class="img-responsive"></a></div>
           </div>
           <div class="col-lg-3 col-sm-4 col-xs-6">
-            <div class="box"><a href="assets/img/portfolio-7.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 7"><img src="assets/img/portfolio-7.jpg" alt="" class="img-responsive"></a></div>
+            <div class="box"><a href="assets/img/portfolio-7.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 7"><img
+              src="assets/img/portfolio-7.jpg" alt="" class="img-responsive"></a></div>
           </div>
           <div class="col-lg-3 col-sm-4 col-xs-6">
-            <div class="box"><a href="assets/img/portfolio-8.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 8"><img src="assets/img/portfolio-8.jpg" alt="" class="img-responsive"></a></div>
+            <div class="box"><a href="assets/img/portfolio-8.jpg" title="" data-lightbox="portfolio" data-title="Portfolio image 8"><img
+              src="assets/img/portfolio-8.jpg" alt="" class="img-responsive"></a></div>
           </div>
         </div>
       </div>

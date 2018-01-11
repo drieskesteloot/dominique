@@ -8,6 +8,7 @@ import { FooterComponent } from './footer/footer.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { LightboxComponent } from './lightbox/lightbox.component';
 import { CarouselComponent } from './carousel/carousel.component';
+import { PresentationComponent } from './presentation/presentation.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { CarouselComponent } from './carousel/carousel.component';
     FooterComponent,
     PortfolioComponent,
     LightboxComponent,
-    CarouselComponent
+    CarouselComponent,
+    PresentationComponent
   ],
   imports: [
     BrowserModule

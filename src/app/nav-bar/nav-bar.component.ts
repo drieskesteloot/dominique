@@ -23,7 +23,7 @@ import { Component, OnInit } from '@angular/core';
                           <li><a href="http://www.google.com">Dropdown item 4</a></li>
                         </ul>
                       </li>
-                      <li><a href="www.google.com">Contact</a></li>
+                      <li><a href="http://www.google.com">Contact</a></li>
                     </ul>
                   </div>
                 </div>
