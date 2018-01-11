@@ -9,6 +9,7 @@ import { PortfolioComponent } from './portfolio/portfolio.component';
 import { LightboxComponent } from './lightbox/lightbox.component';
 import { CarouselComponent } from './carousel/carousel.component';
 import { PresentationComponent } from './presentation/presentation.component';
+import { MapComponent } from './map/map.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { PresentationComponent } from './presentation/presentation.component';
     PortfolioComponent,
     LightboxComponent,
     CarouselComponent,
-    PresentationComponent
+    PresentationComponent,
+    MapComponent
   ],
   imports: [
     BrowserModule
