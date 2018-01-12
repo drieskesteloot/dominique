@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-nav-bar',
   template: `<header class="header">
-              <div role="navigation" class="navbar navbar-default">
+              <div id="top" role="navigation" class="navbar navbar-default">
                 <div class="container">
                   <div class="navbar-header">
                     <a href="www.google.com" class="navbar-brand">IMAGenIN Photography</a>

@@ -10,6 +10,7 @@ import { LightboxComponent } from './lightbox/lightbox.component';
 import { CarouselComponent } from './carousel/carousel.component';
 import { PresentationComponent } from './presentation/presentation.component';
 import { MapComponent } from './map/map.component';
+import { ProjectsComponent } from './projects/projects.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { MapComponent } from './map/map.component';
     LightboxComponent,
     CarouselComponent,
     PresentationComponent,
-    MapComponent
+    MapComponent,
+    ProjectsComponent
   ],
   imports: [
     BrowserModule

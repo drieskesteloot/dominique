@@ -1,0 +1,34 @@
+/* Custom Button Styles */
+
+.btn-dark-imagenin {
+    border-radius: 0;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.btn-dark-imagenin:hover,
+.btn-dark-imagenin:focus,
+.btn-dark-imagenin:active {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.btn-light-imagenin {
+    border-radius: 0;
+    color: #333;
+    background-color: rgb(255, 255, 255);
+}
+
+.btn-light-imagenin:hover,
+.btn-light-imagenin:focus,
+.btn-light-imagenin:active {
+    color: grey;
+    background-color: white;
+}
+
+#to-top {
+    display: none;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}

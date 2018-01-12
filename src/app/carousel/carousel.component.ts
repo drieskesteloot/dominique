@@ -6,27 +6,27 @@ import { Component, OnInit } from '@angular/core';
     <div id="carousel-home" data-ride="carousel" class="carousel slide carousel-fullscreen carousel-fade">
       <!-- Indicators-->
       <ol class="carousel-indicators">
-        <li data-target="#carousel-home" data-slide-to="0" class=""></li>
+        <li data-target="#carousel-home" data-slide-to="0" class="active"></li>
         <li data-target="#carousel-home" data-slide-to="1" class=""></li>
-        <li data-target="#carousel-home" data-slide-to="2" class="active"></li>
+        <li data-target="#carousel-home" data-slide-to="2" class=""></li>
       </ol>
       <!-- Wrapper for slides-->
       <div role="listbox" class="carousel-inner">
-        <div style="background-image: url('assets/img/carousel3.jpg');" class="item">
+        <div style="background-image: url('http://res.cloudinary.com/dzoxd96ke/image/upload/v1515742372/IMAGenIN/carousel3.jpg');" class="item active">
           <div class="overlay"></div>
           <div class="carousel-caption">
             <h1 class="super-heading">Barunka</h1>
             <p class="super-paragraph">A multi-purpose Bootstrap template by  <a href="https://bootstrapious.com">Bootstrapious.com</a>.</p>
           </div>
         </div>
-        <div style="background-image: url('assets/img/carousel2.jpg');" class="item">
+        <div style="background-image: url('http://res.cloudinary.com/dzoxd96ke/image/upload/v1515742369/IMAGenIN/carousel2.jpg');" class="item">
           <div class="overlay"></div>
           <div class="carousel-caption">
             <h1 class="super-heading">Praesent dapibus, neque id cursus faucibus</h1>
             <p class="super-paragraph">Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci</p>
           </div>
         </div>
-        <div style="background-image: url('assets/img/carousel1.jpg');" class="item active">
+        <div style="background-image: url('http://res.cloudinary.com/dzoxd96ke/image/upload/v1515742366/IMAGenIN/carousel1.jpg');" class="item">
           <div class="overlay"></div>
           <div class="carousel-caption">
             <h1 class="super-heading">Lorem ipsum dolor color</h1>
